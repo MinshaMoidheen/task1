@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Laptop",
+        "description": "High-performance laptop",
+        "imageurl": "https://th.bing.com/th?id=OIP.ycunPSYUvPoQfv1e3zPZawHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "price": "$999",
+        "category": "Electronics"
+    },
+    {
+        "name": "Smartphone",
+        "description": "Latest smartphone",
+        "imageurl": "https://tse2.mm.bing.net/th?q=Smartphone%2fiPhone+15&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "price": "$699",
+        "category": "Electronics"
+    },
+    {
+        "name": "Coffee Maker",
+        "description": "Brew fresh coffee",
+        "imageurl": "https://www.bing.com/th?id=OIP.93sdFsNagXBO_QLkQaWcAQHaIf&w=233&h=267&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "price": "$49",
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Desk Chair",
+        "description": "Ergonomic desk chair",
+        "imageurl": "https://th.bing.com/th?id=OIP.F83r6HmzkUbD2HqR1xcbYwHaLG&w=204&h=306&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "price": "$89",
+        "category": "Furniture"
+    }
+]
